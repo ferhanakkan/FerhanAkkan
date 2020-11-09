@@ -1,9 +1,9 @@
-### Hi, I'm Yunus Makan! 👋
+### Hi, I'm Ferhan Akkan! 👋
 
 - 🔭 I’m iOS Developer!
 - 🌱 I’m currently learning  iOS & Swift!
 - 💬 Ask me about Swift!
-- 📫 How to reach me: makanyunus@gmail.com
+- 📫 How to reach me: ferhanakkan@gmail.com
 
 ### 📌 GitHub Stats and Top Languages
 <img src="https://github-readme-stats.vercel.app/api?username=YUNUSMAKAN&&show_icons=true&title_color=0000ff&icon_color=0000ff&text_color=151515&bg_color=ffffff"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUNUSMAKAN&layout=compact)](https://github.com/YUNUSMAKAN/github-readme-stats)
