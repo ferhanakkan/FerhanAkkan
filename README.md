@@ -6,7 +6,7 @@
 - 📫 How to reach me: ferhanakkan@gmail.com
 
 ### 📌 GitHub Stats and Top Languages
-<img src="https://github-readme-stats.vercel.app/api?username=YUNUSMAKAN&&show_icons=true&title_color=0000ff&icon_color=0000ff&text_color=151515&bg_color=ffffff"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUNUSMAKAN&layout=compact)](https://github.com/YUNUSMAKAN/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ferhanakkan&&show_icons=true&title_color=0000ff&icon_color=0000ff&text_color=151515&bg_color=ffffff"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhanakkan&layout=compact)](https://github.com/ferhanakkan/github-readme-stats)
 
 ### Connect with me:
 
