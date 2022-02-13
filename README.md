@@ -13,6 +13,7 @@
 </p>
 
 <p>
+ 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ferhanakkan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ferhanakkan/0" alt="Recent Article 0"> 
