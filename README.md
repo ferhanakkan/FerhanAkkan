@@ -14,8 +14,7 @@
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ferhanakkan/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ferhanakkan/2" alt="Recent Article 2"> 
   
 ### 📌 GitHub Stats and Top Languages
-<img src="https://github-readme-stats.vercel.app/api?username=ferhanakkan&&show_icons=true&title_color=0000ff&icon_color=0000ff&text_color=151515&bg_color=ffffff"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhanakkan&layout=compact)](https://github.com/ferhanakkan/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username=ferhanakkan&&show_icons=true&title_color=0000ff&icon_color=0000ff&text_color=151515&bg_color=ffffff"> 
 <p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhanakkan&" alt="ferhanakkan" />
 </p>  
