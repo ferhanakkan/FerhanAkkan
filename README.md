@@ -8,6 +8,10 @@
 ### 📌 GitHub Stats and Top Languages
 <img src="https://github-readme-stats.vercel.app/api?username=ferhanakkan&&show_icons=true&title_color=0000ff&icon_color=0000ff&text_color=151515&bg_color=ffffff"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhanakkan&layout=compact)](https://github.com/ferhanakkan/github-readme-stats)
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ferhanakkan&show_icons=true&locale=en" alt="ferhanakkan" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhanakkan&" alt="ferhanakkan" />
+</p>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ferhanakkan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ferhanakkan/0" alt="Recent Article 0"> 
