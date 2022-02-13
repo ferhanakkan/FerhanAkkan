@@ -4,10 +4,6 @@
 - 🌱 I’m currently learning  iOS & Swift!
 - 💬 Ask me about Swift!
 - 📫 How to reach me: ferhanakkan@gmail.com
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ferhanakkan&show_icons=true&locale=en" alt="ferhanakkan" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhanakkan&" alt="ferhanakkan" />
-</p>
  
 <h3 align="left">Blogs posts:</h3>
 <!-- BLOG-POST-LIST:START -->
@@ -18,6 +14,10 @@
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ferhanakkan/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ferhanakkan/2" alt="Recent Article 1"> 
 
 <!-- BLOG-POST-LIST:END -->
+  
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ferhanakkan&show_icons=true&locale=en" alt="ferhanakkan" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhanakkan&" alt="ferhanakkan" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
