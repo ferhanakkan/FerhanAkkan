@@ -6,11 +6,9 @@
 - 📫 How to reach me: ferhanakkan@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ferhanakkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferhanakkan" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/ferhanakkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferhanakkan" height="30" width="40" /></a>
+ <a href="https://twitter.com/AkkanFerhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-in-alt.svg" alt="ferhanakkan" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
@@ -22,7 +20,7 @@
 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ferhanakkan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ferhanakkan/1" alt="Recent Article 1">
   
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ferhanakkan/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ferhanakkan/2" alt="Recent Article 1"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ferhanakkan/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ferhanakkan/2" alt="Recent Article 2"> 
 
 <!-- BLOG-POST-LIST:END -->
   
