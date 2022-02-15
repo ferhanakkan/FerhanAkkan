@@ -15,8 +15,8 @@
  <a href="https://twitter.com/AkkanFerhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-in-alt.svg" alt="ferhanakkan" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/swift.svg' alt='swift' height='40'>](https://developer.apple.com/swift/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apple.svg' alt='apple' height='40'>](https://developer.apple.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cocoapods.svg' alt='cocoapods' height='40'>](https://cocoapods.org/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ios.svg' alt='ios' height='40'>](https://developer.apple.com/ios/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/appstore.svg' alt='appstore' height='40'>](https://www.apple.com/tr/ios/app-store/)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
  
 <h3 align="left">Blogs posts:</h3>
 <!-- BLOG-POST-LIST:START -->
