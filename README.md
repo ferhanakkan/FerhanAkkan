@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;It's+Ferhan+Akkan;I'm+working+as+iOS+Developer;Nice+to+meet+you">
   </a>
 </h1>
-
 - 🔭 I’m iOS Developer!
 - 🌱 I’m currently learning  iOS & Swift!
 - 💬 Ask me about Swift!
